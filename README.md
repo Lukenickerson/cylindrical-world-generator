@@ -5,6 +5,8 @@ A world generator/simulation for [Procedural Game Jam 2014](http://itch.io/jam/p
 The world appears two-dimensional, but there is a height value for each x/y coordinate.
 The map is *cyclindrical* because it wraps in the x-axis but not in the y-axis.
 
+Play now at: http://deathraygames.com/play-online/cylindrical-world-generator/ 
+
 The simulation uses a number of procedures:
 * Procedural "randomness" based on sine curve
 * Plate tectonics using vornoi cells
